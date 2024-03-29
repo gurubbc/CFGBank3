@@ -9,7 +9,7 @@ public class MyCalculatorTest {
 	public void testAdd() {
 		MyCalculator mc=new MyCalculator();
 		int actual=mc.add(5, 5);
-		Assert.assertEquals(111, actual);
+		Assert.assertEquals(11, actual);
 		
 	}
 }
