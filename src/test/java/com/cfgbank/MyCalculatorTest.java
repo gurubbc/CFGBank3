@@ -10,6 +10,6 @@ public class MyCalculatorTest {
 		MyCalculator mc=new MyCalculator();
 		int actual=mc.add(5, 5);
 		Assert.assertEquals(11, actual);
-		// maven plugin automatic
+		// maven plugin automatic 
 	}
 }
